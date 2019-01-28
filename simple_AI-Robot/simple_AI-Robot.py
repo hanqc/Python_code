@@ -29,10 +29,10 @@ def get_response(_info):
 		},
  
  
-		"userInfo": #用户参数
+		"userInfo": #用户参数需要填写正确的api key
 		{
-			"apiKey": "eba72dcf08674fe2a6ad56be73988b4b",
-			"userId": "MessiHan"
+			"apiKey": "api key",
+			"userId": "user id"
 		}
 	}
 	# 将字典格式的req编码为utf8
